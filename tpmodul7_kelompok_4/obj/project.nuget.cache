@@ -1,17 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "K8z5TfMTsId6OOQlgPFrQZak41eqfIlX/eARj22glQuQdRwwR7Jtzoqo7atFIMoQWwbLnQUatVgy0l5Y9DkZ5A==",
+  "dgSpecHash": "vAyPuyliN2Bprpg6U4gQakALQqASyKaIV3llU5oMdjRZUUXgKQxc0Kx6mUP0mGC/0WGRF4ELe4tjv/IP0+T1wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mfaqi\\Documents\\Kuliah\\C#\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
+  "projectFilePath": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\JURNAL7\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mfaqi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "uF3VIMTRL2Si/Ig6oh9bymRJzf02ACeqjleJ+fq3IzeZZLclZ9nEK0U/HB4AaKZLi8bYQBoH7LOXMP6DRemuWA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
-  "expectedPackageFiles": [],
->>>>>>> d62c26798223d9c214e2c132a170a9a5da96bc40
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\JURNAL7\\KPL_Kelompok\\tpmodul7_kelompok_4\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
