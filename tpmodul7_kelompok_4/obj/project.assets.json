@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\naufalammar\\.nuget\\packages\\": {}
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
+      "projectUniqueName": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\JURNAL7\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
       "projectName": "tpmodul7_kelompok_4",
-      "projectPath": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
-      "packagesPath": "C:\\Users\\naufalammar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\obj\\",
+      "projectPath": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\JURNAL7\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
+      "packagesPath": "C:\\Users\\irham_nrphlax\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\JURNAL7\\KPL_Kelompok\\tpmodul7_kelompok_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\naufalammar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\irham_nrphlax\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -122,5 +122,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\JURNAL7\\KPL_Kelompok\\tpmodul7_kelompok_4\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
