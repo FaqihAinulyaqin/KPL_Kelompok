@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json;
 
-public class DataMahasiswa1302220077
+public class DataMahasiswa1302220052
 {
     public class Nama
     {
@@ -15,7 +15,7 @@ public class DataMahasiswa1302220077
 
     public void ReadJSON(string jsonString)
     {
-        DataMahasiswa1302220077 data = JsonSerializer.Deserialize<DataMahasiswa1302220077>(jsonString);
+        DataMahasiswa1302220052 data = JsonSerializer.Deserialize<DataMahasiswa1302220052>(jsonString);
         nama = data.nama;
         nim = data.nim;
         fakultas = data.fakultas;
@@ -27,7 +27,7 @@ public class DataMahasiswa1302220077
     }
 }
 
-public class KuliahMahasiswa1302220077
+public class KuliahMahasiswa1302220052
 {
     public class MataKuliah
     {
@@ -39,7 +39,7 @@ public class KuliahMahasiswa1302220077
 
     public void ReadJSON(string jsonString)
     {
-        KuliahMahasiswa1302220077 data = JsonSerializer.Deserialize<KuliahMahasiswa1302220077>(jsonString);
+        KuliahMahasiswa1302220052 data = JsonSerializer.Deserialize<KuliahMahasiswa1302220052>(jsonString);
         courses = data.courses;
     }
 
@@ -57,13 +57,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        string mahasiswaJson = "{\"nama\": {\"depan\": \"Helmy\", \"belakang\": \"Farikh Alfarizhi\"}, \"nim\": 1302220077, \"fakultas\": \"Informatika\"}";
-        DataMahasiswa1302220077 mahasiswa = new DataMahasiswa1302220077();
+        string mahasiswaJson = "{\"nama\": {\"depan\": \"Naufal Ammar\", \"belakang\": \"Zaidan\"}, \"nim\": 1302220052, \"fakultas\": \"Informatika\"}";
+        DataMahasiswa1302220052 mahasiswa = new DataMahasiswa1302220052();
         mahasiswa.ReadJSON(mahasiswaJson);
         mahasiswa.PrintData();
 
-        string kuliahJson = "{\"courses\": [{\"code\": \"CRI2C4\", \"name\": \"Konstruksi Perangkat Lunak\"}, {\"code\": \"CRI2E4\", \"name\": \"Basis Data\"}, {\"code\": \"CRI3J2\", \"name\": \"Bahasa Inggris: Writing And Speaking\"}, {\"code\": \"CII3B4\", \"name\": \"Pemrograman Berorientasi Objek\"}, {\"code\": \"CRJ2H3\", \"name\": \"Pengalaman Pengguna\"}, {\"code\": \"CRI2F2\", \"name\": \"Proyek Tingkat II\"}, {\"code\": \"CRJ2G3\", \"name\": \"Dasar Jaringan Komputer\"}]}";
-        KuliahMahasiswa1302220077 kuliah = new KuliahMahasiswa1302220077();
+        string kuliahJson = "{\"courses\": [{\"code\": \"CRI2C4\", \"name\": \"Konstruksi Perangkat Lunak\"}, {\"code\": \"CRI2E4\", \"name\": \"Basis Data\"}, {\"code\": \"UWJXF2\", \"name\": \"Kewirausahaan\"}, {\"code\": \"CII3B4\", \"name\": \"Pemrograman Berorientasi Objek\"}, {\"code\": \"CRJ2H3\", \"name\": \"Pengalaman Pengguna\"}, {\"code\": \"CRI2F2\", \"name\": \"Proyek Tingkat II\"}, {\"code\": \"CRJ2G3\", \"name\": \"Dasar Jaringan Komputer\"}]}";
+        KuliahMahasiswa1302220052 kuliah = new KuliahMahasiswa1302220052();
         kuliah.ReadJSON(kuliahJson);
         kuliah.PrintData();
     }

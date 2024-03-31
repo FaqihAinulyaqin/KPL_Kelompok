@@ -13,3 +13,18 @@ D:\COOLYEAH\Semester 4\KPL\TP & Latihan\KPL_Kelompok\tpmodul7_kelompok_4\obj\Deb
 D:\COOLYEAH\Semester 4\KPL\TP & Latihan\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.pdb
 D:\COOLYEAH\Semester 4\KPL\TP & Latihan\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.genruntimeconfig.cache
 D:\COOLYEAH\Semester 4\KPL\TP & Latihan\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\ref\tpmodul7_kelompok_4.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.AssemblyInfoInputs.cache
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.AssemblyInfo.cs
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.csproj.CoreCompileInputs.cache
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.sourcelink.json
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\refint\tpmodul7_kelompok_4.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.pdb
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\bin\Debug\net8.0\tpmodul7_kelompok_4.exe
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\bin\Debug\net8.0\tpmodul7_kelompok_4.deps.json
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\bin\Debug\net8.0\tpmodul7_kelompok_4.runtimeconfig.json
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\bin\Debug\net8.0\tpmodul7_kelompok_4.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\bin\Debug\net8.0\tpmodul7_kelompok_4.pdb
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\tpmodul7_kelompok_4.genruntimeconfig.cache
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\KPL_Kelompok\tpmodul7_kelompok_4\obj\Debug\net8.0\ref\tpmodul7_kelompok_4.dll
