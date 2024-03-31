@@ -57,7 +57,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string mahasiswaJson = "{\"nama\": {\"depan\": \"Irham\", \"belakang\": \"Baehaqi\"}, \"nim\": 1302220077, \"fakultas\": \"Informatika\"}";
+        string mahasiswaJson = "{\"nama\": {\"depan\": \"Francisca\", \"belakang\": \"Manope\"}, \"nim\": 1302223062, \"fakultas\": \"Informatika\"}";
         DataMahasiswa1302223062 mahasiswa = new DataMahasiswa1302223062();
         mahasiswa.ReadJSON(mahasiswaJson);
         mahasiswa.PrintData();
