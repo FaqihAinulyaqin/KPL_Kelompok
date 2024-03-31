@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\COOLYEAH\\Semester 4\\KPL\\TP & Latihan\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {}
+    "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {}
   },
   "projects": {
-    "D:\\COOLYEAH\\Semester 4\\KPL\\TP & Latihan\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {
+    "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\COOLYEAH\\Semester 4\\KPL\\TP & Latihan\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
+        "projectUniqueName": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
         "projectName": "tpmodul7_kelompok_4",
-        "projectPath": "D:\\COOLYEAH\\Semester 4\\KPL\\TP & Latihan\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\COOLYEAH\\Semester 4\\KPL\\TP & Latihan\\KPL_Kelompok\\tpmodul7_kelompok_4\\obj\\",
+        "projectPath": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj",
+        "packagesPath": "C:\\Users\\naufalammar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\naufalammar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

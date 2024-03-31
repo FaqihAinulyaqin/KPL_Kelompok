@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\COOLYEAH\\Semester 4\\KPL\\TP \u0026 Latihan\\KPL_Kelompok\\",
+  "WorkspaceRootPath": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C0EE77-74B8-45D6-9A9A-3AFC41F752A1}|tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj|d:\\coolyeah\\semester 4\\kpl\\tp \u0026 latihan\\kpl_kelompok\\tpmodul7_kelompok_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1C0EE77-74B8-45D6-9A9A-3AFC41F752A1}|tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj|c:\\users\\naufalammar\\documents\\semester 4\\kpl\\kpl_kelompok\\tpmodul7_kelompok_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C0EE77-74B8-45D6-9A9A-3AFC41F752A1}|tpmodul7_kelompok_4\\tpmodul7_kelompok_4.csproj|solutionrelative:tpmodul7_kelompok_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TP \u0026 Latihan\\KPL_Kelompok\\tpmodul7_kelompok_4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_4\\Program.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TP \u0026 Latihan\\KPL_Kelompok\\tpmodul7_kelompok_4\\Program.cs",
+              "ToolTip": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\KPL_Kelompok\\tpmodul7_kelompok_4\\Program.cs",
               "RelativeToolTip": "tpmodul7_kelompok_4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T14:11:31.019Z",
               "EditorCaption": ""
