@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json;
 
-public class DataMahasiswa1302220063
+public class DataMahasiswa1302223062
 {
     public class Nama
     {
@@ -15,7 +15,7 @@ public class DataMahasiswa1302220063
 
     public void ReadJSON(string jsonString)
     {
-        DataMahasiswa1302220063 data = JsonSerializer.Deserialize<DataMahasiswa1302220063>(jsonString);
+        DataMahasiswa1302223062 data = JsonSerializer.Deserialize<DataMahasiswa1302223062>(jsonString);
         nama = data.nama;
         nim = data.nim;
         fakultas = data.fakultas;
@@ -27,7 +27,7 @@ public class DataMahasiswa1302220063
     }
 }
 
-public class KuliahMahasiswa1302220063
+public class KuliahMahasiswa1302223062
 {
     public class MataKuliah
     {
@@ -39,7 +39,7 @@ public class KuliahMahasiswa1302220063
 
     public void ReadJSON(string jsonString)
     {
-        KuliahMahasiswa1302220063 data = JsonSerializer.Deserialize<KuliahMahasiswa1302220063>(jsonString);
+        KuliahMahasiswa1302223062 data = JsonSerializer.Deserialize<KuliahMahasiswa1302223062>(jsonString);
         courses = data.courses;
     }
 
@@ -58,12 +58,12 @@ class Program
     static void Main(string[] args)
     {
         string mahasiswaJson = "{\"nama\": {\"depan\": \"Irham\", \"belakang\": \"Baehaqi\"}, \"nim\": 1302220077, \"fakultas\": \"Informatika\"}";
-        DataMahasiswa1302220063 mahasiswa = new DataMahasiswa1302220063();
+        DataMahasiswa1302223062 mahasiswa = new DataMahasiswa1302223062();
         mahasiswa.ReadJSON(mahasiswaJson);
         mahasiswa.PrintData();
 
         string kuliahJson = "{\"courses\": [{\"code\": \"CRI2C4\", \"name\": \"Konstruksi Perangkat Lunak\"}, {\"code\": \"CRI2E4\", \"name\": \"Basis Data\"}, {\"code\": \"CRI3J2\", \"name\": \"Bahasa Inggris: Writing And Speaking\"}, {\"code\": \"CII3B4\", \"name\": \"Pemrograman Berorientasi Objek\"}, {\"code\": \"CRJ2H3\", \"name\": \"Pengalaman Pengguna\"}, {\"code\": \"CRI2F2\", \"name\": \"Proyek Tingkat II\"}, {\"code\": \"CRJ2G3\", \"name\": \"Dasar Jaringan Komputer\"}]}";
-        KuliahMahasiswa1302220063 kuliah = new KuliahMahasiswa1302220063();
+        KuliahMahasiswa1302223062 kuliah = new KuliahMahasiswa1302223062();
         kuliah.ReadJSON(kuliahJson);
         kuliah.PrintData();
     }
